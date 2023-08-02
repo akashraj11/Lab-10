@@ -33,11 +33,11 @@ select multiple cell and do Run All, Run All Above, or Run All Below.
 
 Run Jupyter code cells
 
-### Save your Jupyter Notebook
-You can save your Jupyter Notebook using the keyboard shortcut Ctrl+S or File > Save.
+### Save  Jupyter Notebook
+Save Jupyter Notebook using the keyboard shortcut Ctrl+S or File > Save.
 
-### Export your Jupyter Notebook
-You can export a Jupyter Notebook as a Python file (.py), a PDF, or an HTML file. To export, select the Export action on the main toolbar. You'll then be presented with a dropdown of file format options.
+### Export  Jupyter Notebook
+Export a Jupyter Notebook as a Python file (.py), a PDF, or an HTML file. To export, select the Export action on the main toolbar. You'll then be presented with a dropdown of file format options.
 
 ### Convert Jupyter Notebook to Python file
 
